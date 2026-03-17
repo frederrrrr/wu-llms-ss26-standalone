@@ -1,0 +1,2 @@
+ADS_Simon_Ertl/model2_lora_adapter.zip filter=lfs diff=lfs merge=lfs -text
+ADS_Simon_Ertl/model2_lora_adapter/adapter_model.safetensors filter=lfs diff=lfs merge=lfs -text
